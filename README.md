@@ -56,8 +56,8 @@ Step-by-Step Instructions:
         Aluminum (Density: 2700 kg/m³)
         Delrin (Density: 1410 kg/m³)
         Custom (Allows you to specify a custom material with a user-defined density)
+        (Note: For "Custom" material, you will need to specify a density value in future versions of the app.)
 
-(Note: For "Custom" material, you will need to specify a density value in future versions of the app.)
 4. Perform Calculation
 
 Click the "Calculate" button to compute the mass of material removed due to the drilled holes. The app will display the result on the screen, showing the total mass removed in grams and the number of holes and rows.
