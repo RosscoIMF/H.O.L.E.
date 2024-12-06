@@ -6,6 +6,8 @@ H.O.L.E. (Hole Optimization and Layout Engine) is a desktop application designed
 
 Whether you're working on a piston, a custom cylinder, or any other cylindrical object, H.O.L.E. provides you with the tools to accurately design and plot your layout with ease.
 
+You will need to install Adobe Reader and use Adobe's print scaling function to fine-tune the metric accuracy of the template. Achieving accuracy within ±1 mm is easily possible with some adjustments to the scaling function.
+
 Features
 
     Mass Calculation: Compute the total material removed based on cylinder dimensions, material density, and hole layout.
@@ -81,3 +83,5 @@ Click the "Calculate" button to compute the mass of material removed due to the 
    -Rossco
 
    https://airgunforums.co.uk/members/rossco.14917/
+
+   https://airgunforums.co.uk/threads/budget-dividing-head.123923/
