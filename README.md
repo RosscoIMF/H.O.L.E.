@@ -21,9 +21,10 @@ Features
 System Requirements
 
     Operating System: Windows
+    Standalone executable, no installation required.
 
     
-Here is a set of clear and concise instructions on how to use your Cylinder Hole Mass Calculator app:
+Instructions on how to use your Cylinder Hole Mass Calculator app:
 Cylinder Hole Mass Calculator - User Instructions
 
 Overview:
@@ -78,7 +79,7 @@ Click the "Calculate" button to compute the mass of material removed due to the 
     The generated A4 template is automatically saved as two files:
         A4_Template.png
         A4_Template.pdf
-        The template is saved in the app's current working directory. You may need to change the file paths in the code for saving to a custom location.
+        The template is saved in the app's current working directory. To ensure new templates appear in the app's home directory, you may need to delete any previously generated templates.
 
    -Rossco
 
