@@ -89,9 +89,9 @@ Click the "Calculate" button to compute the mass of material removed due to the 
 
     6.2. Access the Print Dialog
 
-    Go to the File menu and select Print, or press Ctrl + P (Windows) or Command + P (Mac) to open the print dialog.
+    Go to the File menu and select Print, or press Ctrl + P (Windows) to open the print dialog.
 
-    6.3. Adjust the Scaling Percentagen (74.5% worked for me.)
+    6.3. Adjust the Scaling Percentage (74.5% worked for me) until the measurements given on the template are correct.
 
     In the print dialog, locate the Page Sizing & Handling section.
     Select the Custom Scale option.
@@ -99,6 +99,7 @@ Click the "Calculate" button to compute the mass of material removed due to the 
         100% prints at the original size.
         50% reduces the size by half.
         200% doubles the size.
+        You can input decimal values for fine tuning.
 
    -Rossco
 
