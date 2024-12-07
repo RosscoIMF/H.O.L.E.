@@ -81,6 +81,25 @@ Click the "Calculate" button to compute the mass of material removed due to the 
         A4_Template.pdf
         The template is saved in the app's current working directory. To ensure new templates appear in the app's home directory, you may need to delete any previously generated templates.
 
+   The exported template will need to be scaled in Adobe Reader, Scaling a print by percentage in Adobe Reader is straightforward. Here's how you can do it:
+    
+    6.1. Open Your PDF
+
+    Launch Adobe Reader and open the PDF you want to print.
+
+    6.2. Access the Print Dialog
+
+    Go to the File menu and select Print, or press Ctrl + P (Windows) or Command + P (Mac) to open the print dialog.
+
+    6.3. Adjust the Scaling Percentagen (74.5% worked for me.)
+
+    In the print dialog, locate the Page Sizing & Handling section.
+    Select the Custom Scale option.
+    Enter the percentage by which you want to scale the print. For example:
+        100% prints at the original size.
+        50% reduces the size by half.
+        200% doubles the size.
+
    -Rossco
 
    https://airgunforums.co.uk/members/rossco.14917/
