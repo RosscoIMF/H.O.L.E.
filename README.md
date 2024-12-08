@@ -23,9 +23,7 @@ System Requirements
     Operating System: Windows
     Standalone executable, no installation required.
 
-    
-Instructions on how to use your Cylinder Hole Mass Calculator app:
-Cylinder Hole Mass Calculator - User Instructions
+User Instructions
 
 Overview:
 This application calculates the mass of material removed from a cylindrical object with drilled holes and generates a visual A4-sized template showing the hole layout. The app allows you to input the cylinder dimensions, hole sizes, material type, and the number of holes to calculate the mass removed and generate a template for printing.
