@@ -6,7 +6,7 @@ H.O.L.E. (Hole Optimization and Layout Engine) is a desktop application designed
 
 Whether you're working on a piston, a custom cylinder, or any other cylindrical object, H.O.L.E. provides you with the tools to accurately design and plot your layout with ease.
 
-You will need to install Adobe Reader and use Adobe's print scaling function to fine-tune the metric accuracy of the template. Achieving accuracy within ±0.3 mm is easily possible with some adjustments to the scaling function.
+You will need to install Adobe Reader and use Adobe's print scaling function to fine-tune the metric accuracy of the template. Achieving accuracy within ±0.3 mm is achievable with some adjustments to the scaling function in Adobe Raeder.
 
 Features
 
