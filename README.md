@@ -10,18 +10,25 @@ You will need to install Adobe Reader and use Adobe's print scaling function to 
 
 Features
 
-    Mass Calculation: Compute the total material removed based on cylinder dimensions, material density, and hole layout.
-    Material Selection: Choose from Steel, Aluminum, Delrin, or other materials for accurate density-based mass removal calculations.
-    Hole Layout Visualization: Design layouts with adjustable hole diameters, rows, and columns.
-    A4 Template Generation: Create an unwrapped, scaled cylinder template with labeled dimensions and hole positions:
-    Automatically saves as both PNG and PDF formats for easy printing.
-    User-Friendly GUI: Simple and intuitive interface designed for machinists and hobbyists.
-    About Section: Learn about the origins of the app and its purpose.
+Mass Calculation: Compute the total material removed based on cylinder dimensions, material density, and hole layout.
+
+Material Selection: Choose from Steel, Aluminum, Delrin, or other materials for accurate density-based mass removal calculations.
+
+Hole Layout Visualization: Design layouts with adjustable hole diameters, rows, and columns.
+
+A4 Template Generation: Create an unwrapped, scaled cylinder template with labeled dimensions and hole positions:
+    
+Automatically saves as both PNG and PDF formats for easy printing.
+
+User-Friendly GUI: Simple and intuitive interface designed for hobbyists.
+
+About Section: Learn about the origins of the app and its purpose.
 
 System Requirements
 
-    Operating System: Windows
-    Standalone executable, no installation required.
+Operating System: Windows
+
+Standalone executable, no installation required.
 
 User Instructions
 
@@ -98,6 +105,8 @@ Click the "Calculate" button to compute the mass of material removed due to the 
         50% reduces the size by half.
         200% doubles the size.
         You can input decimal values for fine tuning.
+
+   Feel free to share feedback or suggestions for future improvements. Happy calculating! 🚀
 
    -Rossco
 
